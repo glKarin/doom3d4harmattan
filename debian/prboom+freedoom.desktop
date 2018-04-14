@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DOOM 3D
+Comment=A source-faithful Doom engine
+Exec=/usr/bin/prboom
+Icon=/usr/share/icons/hicolor/80x80/apps/prboom_80.png
+Terminal=false
+Type=Application
+#MimeType=text/plain
+Categories=Game;ShooterGame;
